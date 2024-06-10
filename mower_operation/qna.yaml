@@ -165,6 +165,6 @@ seed_examples:
       parts promptly to maintain optimal performance.
 document:
   repo: git@github.com:italchemy/ilab.git
-  commit: 670b098
+  commit: ca09e63
   patterns:
     - mower_operation/operators_manual.md
