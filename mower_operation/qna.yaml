@@ -1,0 +1,170 @@
+version: 2
+task_description: "Teach the model how operate and maintain a Sears 020 Series Push Mower"
+created_by: ckirby
+domain: home_and_garden
+seed_examples:
+  - question: What should you do before attempting to operate the mower?
+    answer: |
+      Read the operator's manual carefully in its entirety before attempting to assemble this machine. Understand and
+      follow all instructions on the machine and in the manual(s). Keep the manual in a safe place for future reference
+      and for ordering replacement parts.
+
+  - question: What is the minimum age for operating the mower?
+    answer: |
+      Never allow children under 14 years of age to operate this machine. Children 14 and over should read and
+      understand the instructions and safe operation practices in this manual and on the machine, and should be
+      trained and supervised by an adult.
+
+  - question: What should you inspect before using the mower?
+    answer: |
+      Thoroughly inspect the area where the equipment is to be used. Remove all stones, sticks, wire, bones, toys, and
+      other foreign objects which could be tripped over or picked up and thrown by the blade.
+
+  - question: How far should bystanders be kept from the mower while it is in operation?
+    answer: |
+      Keep children, bystanders, helpers, and pets at least 75 feet from the mower while it is in operation. Stop the
+      machine if anyone enters the area.
+
+  - question: What personal protective equipment should you wear during operation?
+    answer: |
+      Always wear safety glasses or safety goggles during operation and while performing an adjustment or repair to
+      protect your eyes. Wear sturdy, rough-soled work shoes and close-fitting slacks and shirts. Steel-toed shoes are
+      recommended.
+
+  - question: What should you do if you are falling while operating the mower?
+    answer: |
+      Do not hold onto the mower if you are falling; release the handle immediately to prevent injury.
+
+  - question: What steps should you follow when pulling the mower backward?
+    answer: |
+      When pulling the mower backward, step back from the mower to fully extend your arms, ensure you are well balanced
+      with sure footing, pull the mower back slowly, no more than halfway toward you, and repeat these steps as needed.
+
+  - question: What should you avoid when operating the mower?
+    answer: |
+      Do not operate the mower while under the influence of alcohol or drugs. Do not engage the self-propelled
+      mechanism while starting the engine. Do not operate the mower in wet grass.
+
+  - question: What should you do when crossing gravel drives, walks, or roads?
+    answer: |
+      Stop the blade when crossing gravel drives, walks, or roads to prevent any damage or hazards.
+
+  - question: How often should you check the blade and engine mounting bolts?
+    answer: |
+      Check the blade and engine mounting bolts at frequent intervals for proper tightness. Also, visually inspect the
+      blade for damage and replace it with the original equipment manufacturer's blade if necessary.
+
+  - question: What should you do if the mower starts to vibrate abnormally?
+    answer: |
+      If the mower starts to vibrate abnormally, stop the engine immediately and check for the cause. Vibration is
+      generally a warning of trouble, and the cause must be identified and rectified before continuing operation.
+
+  - question: What safety precautions should you take when handling gasoline?
+    answer: |
+      Use extreme care in handling gasoline. Use only an approved gasoline container. Never fill containers inside a
+      vehicle or on a truck or trailer bed with a plastic liner. Remove gas-powered equipment from the truck or trailer
+      and refuel it on the ground. Extinguish all cigarettes, cigars, pipes, and other sources of ignition.
+
+  - question: What should you do if gasoline is spilled?
+    answer: |
+      If gasoline is spilled, wipe it off the engine and equipment. Move the machine to another area. Wait 5 minutes
+      before starting the engine.
+
+  - question: What is the proper disposal method for fluids and materials?
+    answer: |
+      Observe proper disposal laws and regulations. Improper disposal of fluids and materials can harm the environment.
+
+  - question: What is the Average Useful Life of the mower according to the CPSC and EPA?
+    answer: |
+      According to the Consumer Products Safety Commission (CPSC) and the U.S. Environmental Protection Agency (EPA),
+      this product has an Average Useful Life of seven (7) years or 140 hours of operation.
+
+  - question: What should you do at the end of the mower's Average Useful Life?
+    answer: |
+      At the end of the Average Useful Life, have the mower inspected annually by an authorized service dealer to
+      ensure that all mechanical and safety systems are working properly and not worn excessively.
+
+  - question: What is the function of the engine's governor?
+    answer: |
+      The governor controls the maximum safe operating speed of the engine. Do not change the engine's governor
+      setting or over-speed the engine, as this can cause the engine to operate at unsafe speeds.
+
+  - question: What safety device must never be bypassed?
+    answer: |
+      The blade control is a safety device and must never be bypassed. Doing so makes the safety device inoperative and
+      may result in personal injury through contact with the rotating blade.
+
+  - question: What should you do before cleaning, repairing, or inspecting the mower?
+    answer: |
+      Make certain the blade and all moving parts have stopped. Disconnect the spark plug wire and ground it against
+      the engine to prevent unintended starting.
+
+  - question: What should you do if you strike a foreign object while operating the mower?
+    answer: |
+      If you strike a foreign object while operating the mower, stop the engine, disconnect the spark plug wire and
+      ground it against the engine. Thoroughly inspect the mower for any damage and repair the damage before starting
+      and operating the mower.
+
+  - question: What precautions should you take when mowing on slopes?
+    answer: |
+      Mow across the face of slopes, never up and down. Exercise extreme caution when changing direction on slopes.
+      Avoid mowing excessively steep slopes. Use caution when operating the mower near drop-offs, ditches, or
+      embankments.
+
+  - question: How should you store gasoline?
+    answer: |
+      Store gasoline in a cool, well-ventilated area, safely away from the house. Never store gasoline or the machine
+      with gasoline in the tank inside a building where fumes may reach an open flame, spark, or pilot light as on a
+      furnace, water heater, or clothes dryer.
+
+  - question: How should you prepare the mower for storage?
+    answer: |
+      Allow the engine to cool before storing in any enclosure. Clean the mower thoroughly, including the grass catcher,
+      to remove all grass clippings, dirt, and debris. Wipe the mower clean to prevent any buildup of flammable
+      materials.
+
+  - question: What should you do if the engine fails to start?
+    answer: |
+      If the engine fails to start, check the fuel level, ensure the spark plug wire is connected, and make sure the
+      engine controls are set correctly. Follow the starting procedure as outlined in the manual. If the engine still
+      fails to start, refer to the troubleshooting section of the manual.
+
+  - question: How should you maintain the mower's air filter?
+    answer: |
+      Clean the air filter regularly according to the instructions in the manual. A clogged air filter can reduce
+      engine performance and increase fuel consumption. Replace the air filter if it is damaged or excessively
+      dirty.
+
+  - question: What type of oil should be used in the mower's engine?
+    answer: |
+      Use only high-quality detergent oil rated with an API service classification of SF, SG, SH, or SJ. Select the
+      appropriate oil viscosity for the expected outdoor temperature range as specified in the manual.
+
+  - question: How should you change the engine oil?
+    answer: |
+      Run the engine for a few minutes to warm the oil. Stop the engine and disconnect the spark plug wire. Drain the
+      oil by removing the oil drain plug. Reinstall the drain plug and refill the engine with the recommended oil
+      type and quantity. Check the oil level and ensure it is at the correct level.
+
+  - question: How often should you sharpen the mower blade?
+    answer: |
+      Sharpen the mower blade at least once a season to ensure a clean cut. If the blade becomes dull, bent, or
+      damaged, sharpen or replace it immediately. Always balance the blade after sharpening to prevent excessive
+      vibration and wear on the mower.
+
+  - question: What should you do before each use of the mower?
+    answer: |
+      Before each use, check the mower's safety devices, engine oil level, and fuel level. Inspect the blade and the
+      area around the blade for any obstructions or damage. Ensure all nuts, bolts, and screws are tight to ensure the
+      mower is in safe operating condition.
+
+  - question: What maintenance should you perform on the drive system?
+    answer: |
+      Regularly check and adjust the drive system according to the instructions in the manual. Lubricate the drive
+      system components as specified to ensure smooth operation and prevent excessive wear. Replace worn or damaged
+      parts promptly to maintain optimal performance.
+document:
+  repo: git@github.com:italchemy/ilab.git
+  commit: 670b098
+  patterns:
+    - mower_operation/operators_manual.md
